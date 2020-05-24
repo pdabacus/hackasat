@@ -1,0 +1,19 @@
+https://quals.2020.hackasat.com/scoreboard/challenge/16
+
+Track the Sat (Ground Segment, 49 points)
+
+You're in charge of controlling our hobbiest antenna. The antenna is controlled by two servos, one for azimuth and the other for elevation. Included is an example file from a previous control pattern. Track the satellite requested so we can see what it is broadcasting
+
+================================================================================
+
+nc trackthesat.satellitesabove.me 5031
+
+ticket{whiskey74063xray:GO_Qucc4F1_cFzhK_-aKNiNUkfb6hbDhx-Ryi6i5J-ehb5dWCPLfnBcnF_TwIpaiFQ}
+
+Track-a-sat control system
+Latitude: 27.0704
+Longitude: 119.62
+Satellite: COSMOS 2504
+Start time GMT: 1587042970.590099
+720 observations, one every 1 second
+
