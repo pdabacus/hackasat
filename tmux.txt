@@ -1,7 +1,0 @@
-create:
-tmux -S /tmp/hackasat/pavan new-session -s pavan
-tmux -S /tmp/hackasat/aidan new-session -s aidan
-
-connect:
-tmux -S /tmp/hackasat/pavan attach -t pavan
-tmux -S /tmp/hackasat/aidan attach -t aidan
